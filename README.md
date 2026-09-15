@@ -10,4 +10,5 @@ một phiên bản tinyjoypad esp8266 đc port cho esp32_s3 supermini
 -------------------------------------
 
 <img width="249" height="96" alt="ảnh" src="https://github.com/user-attachments/assets/be977ca2-d5f9-4c0f-8bd1-c51e117df6ca" />
-(không có file boot đâu nhé :) )
+-------------------------------------
+  không có file boot đâu nhé :) 
